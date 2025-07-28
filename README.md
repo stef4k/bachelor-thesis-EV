@@ -14,6 +14,6 @@ Predict how suitably (ranked categories) a conventional vehicle can be replaced 
 - Multilabel Classification:
 Predict all the suitable electric vehicle brands that can replace a given conventional vehicle.
 
-Final versions:
+<b>Final versions</b>:
 - [Thesis in English](https://github.com/stef4k/bachelor-thesis-EV/blob/main/thesis_english.pdf)
 - [Thesis in Greek](https://github.com/stef4k/bachelor-thesis-EV/blob/main/thesis_greek.pdf), original version.
